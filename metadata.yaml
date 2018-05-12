@@ -1,0 +1,31 @@
+_repo: The-Busted-Ex-Texan-and-Other-Stories_28502
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28502-h/images/cover.png
+creator:
+  author:
+    agent_name: Murray, W. H. H. (William Henry Harrison)
+    alias: Murray, William Henry Harrison
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '6611'
+    url: http://www.gutenberg.org/2009/agents/6611
+description: ''
+gutenberg_issued: '2009-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcsh 'Western stories'
+tableOfContents: The busted ex-Texan -- How Deacon Tubman and Parson Whitney celebrated
+  New Year's -- The leaf of red rose.
+title: The Busted Ex-Texan, and Other Stories
+url: http://www.gutenberg.org/ebooks/28502
